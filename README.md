@@ -46,8 +46,8 @@ This project allows users to:
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/aayushsprasad/factor-screener.git
-cd factor-screener
+git clone https://github.com/aayushsprasad/factor-equity-screener.git
+cd factor-equity-screener
 ```
 
 ### 2. Install Dependencies
